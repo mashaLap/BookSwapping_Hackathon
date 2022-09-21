@@ -1,0 +1,15 @@
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\bin\Debug\net6.0\BookSwap.exe
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\bin\Debug\net6.0\BookSwap.deps.json
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\bin\Debug\net6.0\BookSwap.runtimeconfig.json
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\bin\Debug\net6.0\BookSwap.dll
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\bin\Debug\net6.0\BookSwap.pdb
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.csproj.AssemblyReference.cache
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.AssemblyInfoInputs.cache
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.AssemblyInfo.cs
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.csproj.CoreCompileInputs.cache
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.dll
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\refint\BookSwap.dll
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.pdb
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\BookSwap.genruntimeconfig.cache
+C:\Users\t-mashalapid\source\repos\BookSwap\BookSwap\obj\Debug\net6.0\ref\BookSwap.dll

@@ -2,36 +2,29 @@
 {
     public class User
     {
+        public static int Counter = 1;
+        public HashSet<int> booksList = new();
+        public HashSet<int> locationsList = new();
 
         public string Name { get; set; }
-
-        public static int UserIds = 0;
-
-        // public DateTime Created { get; set; }
         public int UserId { get; set; }
-        public bool IsDeleted { get; set; }
         public string PhoneNumber { get; set; }
 
-        public HashSet<int> booksList = new HashSet<int>();
-        public HashSet<int> locationsList = new HashSet<int>();
 
-        public User(string name, string phoneNumber, int locationID)
+        public User(string name, string phoneNumber, int locationId)
         {
             Name = name;
-            //Created = created;
             PhoneNumber = phoneNumber;
-            locationsList.Add(locationID);
-            UserId = UserIds++;
+            locationsList.Add(locationId);
+            UserId = Counter++;
         }
 
         public void addBook(int bookID)
         {
-
-        //   int bookID=  booksList.Add(Book.GetBookID( bookName, bookAuthor,  bookLanguage));
-           booksList.Add(bookID);
+            booksList.Add(bookID);
         }
 
-        public void removeBook(int bookID)
+        public void emoveBook(int bookID)
         {
             booksList.Remove(bookID);
         }
@@ -50,8 +43,5 @@
         {
             locationsList.Remove(locationID);
         }
-
     }
-
-
 }
